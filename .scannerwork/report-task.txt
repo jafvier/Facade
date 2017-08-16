@@ -1,0 +1,6 @@
+projectKey=Facade
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/Facade
+ceTaskId=AV3sEq3kbkfwqOV39QGV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV3sEq3kbkfwqOV39QGV
